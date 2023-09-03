@@ -42,6 +42,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz091&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizAlves01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>-- Readme em desenvolvimento.
