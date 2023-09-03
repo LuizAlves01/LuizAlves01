@@ -1,6 +1,6 @@
 <h1 align="center">Luiz Alves</h1>
 
-<h3 align="center">Developer Frontend Jr | Programming Student
+<h3 align="center">Programming Student
 
 
 ## My Skills :computer:
