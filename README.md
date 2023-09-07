@@ -3,49 +3,76 @@
 <h3 align="center">Programming Student
 
 
-## My Skills :computer:
+## :computer: My Skills
 
 
 ### Programming languages:  
 
-<p><img alt="JavaScript" title="JavaScript" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> <a href="#"><a href="#">
-<img alt="PHP" title="PHP" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/></p>
-
+<p>
+  <a href='#'>
+      <img src="https://skillicons.dev/icons?i=js"/>
+  </a>
+  <a href='https://php.net/'>
+      <img src="https://skillicons.dev/icons?i=php"/>
+  </a>
+</p>
+<br>
 
 ### Data Base: 
 
-<p><img alt="MySql" title="MySql" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> <img alt="MongoDB" title="MongoDB" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/> </p>
-
+<p>
+  <a href='https://mysql.com/'>
+      <img src="https://skillicons.dev/icons?i=mysql"/>
+  </a>
+  <a href='https://mongodb.com/'>
+      <img src="https://skillicons.dev/icons?i=mongodb"/>
+  </a>
+   <a href='https://postgresql.org/'>
+      <img src="https://skillicons.dev/icons?i=postgres"/>
+  </a>
+</p>
+<br>
 
 ### Frameworks: 
 🎓 Estudante das tecnologias:
-<p><img alt="React" title="React" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-  <img alt="Vue" title="Vue" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
-  <img alt="Laravel" title="Laravel" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"/>
-  <img alt="NodeJs" title="NodeJs" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-  <img alt="JQuery" title="JQuery" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>
+<p>
+  <a href='https://reactjs.org/'>
+      <img src="https://skillicons.dev/icons?i=react"/>
+  </a>
+  <a href='https://vuejs.org/'>
+      <img src="https://skillicons.dev/icons?i=vue"/>
+  </a>
+  <a href='https://laravel.com/'>
+      <img src="https://skillicons.dev/icons?i=laravel"/>
+  </a>
+  <a href='https://nodejs.org/'>
+      <img src="https://skillicons.dev/icons?i=nodejs"/>
+  </a>
+  <a href='https://jquery.com/'>
+      <img src="https://skillicons.dev/icons?i=jquery"/>
+  </a>
 </p>
+<br>
 
 ### Outros: 
 
-<p> <img alt="Git" title="Git" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-  <img alt="VSCode" title="VSCode" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-  <img alt="NPM" title="NPM" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/></p>
+<p>
+  <a href='https://git-scm.com/'>
+      <img src="https://skillicons.dev/icons?i=git"/>
+  </a>
+  <a href='https://code.visualstudio.com//'>
+      <img src="https://skillicons.dev/icons?i=vscode"/>
+  </a>
+  <a href='https://postman.com/'>
+      <img src="https://skillicons.dev/icons?i=postman"/>
+  </a>
+</p>
+<br>
 
-<hr>
+ ### GitHub Analytics: 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizAlves01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=LuizAlves01&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="stats"/>
+ </div>
 
 <p>-- Readme em desenvolvimento.
