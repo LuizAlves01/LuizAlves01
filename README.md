@@ -75,4 +75,4 @@
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=LuizAlves01&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="stats"/>
  </div>
 
-<p>-- Readme em desenvolvimento.
+<p> :computer: Readme em desenvolvimento.
